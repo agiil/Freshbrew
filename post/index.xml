@@ -7,8 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>et</language>
     <copyright>CC BY-NC-SA 2016</copyright>
-    <lastBuildDate>Wed, 07 Sep 2016 21:35:08 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2016 21:35:08 +0300</lastBuildDate>
     <atom:link href="https://agiil.github.io/Freshbrew/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ajakohasena hoidmine</title>
+      <link>https://agiil.github.io/Freshbrew/post/ajakohasena-hoidmine/</link>
+      <pubDate>Mon, 12 Sep 2016 21:35:08 +0300</pubDate>
+      
+      <guid>https://agiil.github.io/Freshbrew/post/ajakohasena-hoidmine/</guid>
+      <description>&lt;p&gt;Mõtleme - õigemini ei mõtle, vaid usume - et arendajalt vastu võetud, akteeritud ja tööle rakendatud tarkvara on täielikult dokumenteeritud ja dokumentatsioon on ajakohane. Kahjuks näitab praktika, et sellist eeldust ei saa teha.&lt;/p&gt;
+
+&lt;p&gt;Tõenäosus, et dokumentatsioon vastab tegelikule koodile, on üldiselt väike. Ajakohasus võib käest libiseda erinevatel põhjustel. Tööd oli vaja vastu võtta. Kõike ei jõutud dokumenteerida. Arvati, et dokumenteeritakse siis, kui suur kiire käikulaskmisega on möödas. Tarkvara töölepanemisel tehti veel vajalikke kohandusi. Nende korralikuks dokumenteerimiseks ei olnud käepärast ei inimesi ega aega. Jne. Põhjusi on palju.&lt;/p&gt;
+
+&lt;p&gt;Dokument, mis ei ole ajakohane, ei ole kvaliteetne. Ebakvaliteetsele dokumentatsioonile on aga raske või võimatu peale ehitada.&lt;/p&gt;
+
+&lt;p&gt;Tarkvara haldajal võib olla tarkvara kvaliteedist - sh dokumentatsiooni kvaliteedist - vaid ähmane ettekujutus. Teadmata dokumentatsiooni tegelikku kvaliteeti planeeritakse tarkvara edasiarendustöö. Töö käigus selgub, et dokumentatsioon on puudulik. Ümber mängida - nt täiendamise asemel hoopis ringi kirjutada - on aga juba võimatu.&lt;/p&gt;
+
+&lt;p&gt;Olemasoleva tarkvara edasiarendamine on seetõttu riskantne ettevõtmine. Edasiarendaja võib ootamatult seista ebameeldiva valiku ette: kas hakata energiat ja aega kulutama olemaoleva dokumentatsiooni paremasse seisundisse viimisele (koodi, selle käitumise ja dokumentatsiooni üksteisega vastavuse uurimisele) või piirduda oma osa dokumenteerimisega, täielikult mõistmata, mis tarkvaras tervikuna toimub. Viimasel juhul kaob dokumentatsiooni terviklikus ja garantiid edasiarenduse kvaliteedi kohta anda ei saa.&lt;/p&gt;
+
+&lt;p&gt;Millised tunnused võivad anda märku dokumentatsiooni ajakohasusest?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kas keegi hooldab dokumenti? Kui ei ole teada, siis on suur tõenäosus, et dokument ei ole ajakohane.&lt;/li&gt;
+&lt;li&gt;Millal viimati dokumenti muudeti ja mis laadi see muutus oli? Dokument, millest ei nähtu, millal viimane muutmine toimus ja mida muudeti, tõenäoliselt ei ole ajakohane.&lt;/li&gt;
+&lt;li&gt;Milline on dokumendi hooldustsükkel? Ajakohane on dokument, mida pidevalt või vähemalt regulaarselt &amp;ldquo;hooldatakse&amp;rdquo;. Tänapäeval peab see tsükkel olema päris lühike. Pika läbivaatusperioodi seadmine võib olla enesepettus: rahustatakse end, et strateegia, protsessi või töövoo kirjeldus vaadatakse läbi kaks korda aastas, dokumentatsiooni ajakohastatakse iga arendusprojekti lõpus jne. Tegelikult toimuvad muutused kogu aeg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tihti alahinnatakse ajakohasuse hoidmise kulu. Mahuka dokumentatsiooni ajakohasena hoidmiseks ei jätku lihtsalt ressursse.&lt;/p&gt;
+
+&lt;p&gt;Mida siis teha?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inimene jõuab pidevalt ajakohasena, hea korras hoida vaid väikest arvu dokumente. Võib-olla ainult 3-4, mitte enamat. Loobuda soovmõtlemisest, et inimesed suudavad enamat.&lt;/li&gt;
+&lt;li&gt;Üks ilmne olukorra parendamise tee on dokumentide arvu ja mahu vähendamine.&lt;/li&gt;
+&lt;li&gt;Teiseks, prioritiseerimine: leida väike arv võtmetähtsusega dokumente, mida siis üritada iga hinna eest ajakohasena hoida.&lt;/li&gt;
+&lt;li&gt;Kolmandaks, &amp;ldquo;vaid ühes kohas&amp;rdquo; põhimõtte rakendamine. Ajakohasus kaob eriti kiiresti siis, kui teabest tekib mitu koopiat või esitust.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>A, B ja C</title>
