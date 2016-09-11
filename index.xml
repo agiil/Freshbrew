@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freshbrew</title>
+    <link>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/</link>
+    <description>Recent content on Freshbrew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>et</language>
+    <copyright>CC BY-NC-SA 2016</copyright>
+    <lastBuildDate>Wed, 07 Sep 2016 21:35:08 +0300</lastBuildDate>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A, B ja C</title>
+      <link>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/a-b-ja-c/</link>
+      <pubDate>Wed, 07 Sep 2016 21:35:08 +0300</pubDate>
+      
+      <guid>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/a-b-ja-c/</guid>
+      <description>
+
+&lt;h1 id=&#34;a-b-ja-c&#34;&gt;A, B ja C&lt;/h1&gt;
+
+&lt;p&gt;Probleeme (töid) tuleb prioritiseerida: A, B ja C kategooria probleemid. A kategooria inimest ei tohi panna lahendama C kategooria probleemi. Tihti aga nii tehakse. Tulemuseks on ebaefektiivne ressursikasutus. See ei ole jätkusuutlik, ei nii ülesande andja kui ka inimese enda suhtes.&lt;/p&gt;
+
+&lt;p&gt;Hea mõte ei ole ka panna C kategooria inimene lahendama A kategooria probleemi. Tulemuseks on pusimine või ei saa inimene üldse aru, mis suunas minna.&lt;/p&gt;
+
+&lt;p&gt;B kategooria inimesed lahendagu B kategooria probleeme.&lt;/p&gt;
+
+&lt;p&gt;Ülaltoodu võib näida arrogantsusena, elitismina või millegi veel hullemana. Kuid probleemid on erinevad ja erinevad on ka inimeste võimed ühel või teisel alal probleeme lahendada.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inimeste katkiminekust</title>
+      <link>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/inimeste-katkiminekust/</link>
+      <pubDate>Tue, 30 Aug 2016 19:48:10 +0300</pubDate>
+      
+      <guid>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/inimeste-katkiminekust/</guid>
+      <description>&lt;p&gt;Inimeste katkiminekust&lt;/p&gt;
+
+&lt;p&gt;Projektijuhil on kaht liiki alluvaid: a) oma asutuse töötajad; b) arenduspartneri töötajad. Kuidas ta saab neid motiveerida?&lt;/p&gt;
+
+&lt;p&gt;Motivatsioonitegurid on täiesti erinevad.&lt;/p&gt;
+
+&lt;p&gt;[Räägime siis tellijapoolsest projektijuhist - arendustööde sisseostmise kontekstis]&lt;/p&gt;
+
+&lt;p&gt;Arenduspartneri töötajatelt saab nõuda inimlikult, nagu IT-spetsialist IT-spetsialistilt jms. Siiski on kogu aeg taustal leping. Nõuda saab  lepingu alusel.&lt;/p&gt;
+
+&lt;p&gt;Kuid päris suur osa arendusest on intellektuaalne töö. Intellektuaalset tööd on raske up-front spetsifitseerida. Lepingus peab töö - jutt on siis mitte mehhaanilisest, vaid intellektuaalsest tööst - olema spetsifitseeritud täielikult, kõikehõlmavalt ja objektiivset vastavuskontrolli võimaldava detailsusega. Waterfall-arenduses üritatakse seda saavutada, kuid tihti ebaõnnestutakse.&lt;/p&gt;
+
+&lt;p&gt;Mida siis tehakse? Projektijuht ei saa piirduda üldiste formuleeringutega &amp;ldquo;ei meeldi&amp;rdquo;, &amp;ldquo;kole&amp;rdquo;, &amp;ldquo;kehv töö&amp;rdquo; jne. Ta saab nõuda asja parandamist ainult siis, kui tal on lauale käia lepingu tekstist tulenev kindel argumentatsioon oma väite toetuseks. (Muidugi võib ta bluffida - kui mitte kaua).&lt;/p&gt;
+
+&lt;p&gt;Ainus lootus arendajat mõjutada on koostada detailne loetelu konkreetsetest puudustest. Ka siis võib arendaja vastu vaielda ja keelduda tööd täiendamist või ümber tegemast - viidates lepingule, kus neid asju konkreetselt nimetatud ei ole. Kui aga puudused on nii detailselt lahti pudistatud, et nende kõrvaldamine on lihtne mehhaaniline töö, siis arendaja tavaliselt ei viitsi jamada ja viib (vähemalt enamuse) parandustest sisse.&lt;/p&gt;
+
+&lt;p&gt;Puuduste nimekirja koostamiseks kaasab projektijuht asutuse töötajaid. (Projektijuht tavaliselt ei jõua juba puhtfüüsiliselt ise nimekirja kokku panna.) Asutuse töötajate motiveerimine on natuke lihtsam. Tegu on kolleegidega ja kaastöötaja palvele äraütlemine ei lähe kokku asutuse tööeetikaga (ja väärtustega, kui need on sõnastatud). Teiseks on asutuse töötajad motiveeritud sellega, et igaüks tahab ikkagi oma töökohta perspektiivis säilitada.  Samuti pole arendusasutuse töötajatel kombeks käia ringi tööleping näpus, vaieldes, mida nad töölepingu järgi peavad ja ei pea tegema. Arendusorganisatsioonis on loomulik, et tehakse erinevaid asju. Ja vahel teevad asutuse töötajad arenduspartneri tegemata töö üldse ise ära.&lt;/p&gt;
+
+&lt;p&gt;Kõik oleks ilus, kuid selline teise töö ärategemine paraku ei ole jätkusuutlik. Tõtates mitmetesse kohtadesse tulekahjusid kustutama, teiste tööd parandama või ära tegema, lähevad asutuse töötajatel lõpuks enda töölõikudes asjad katki. Või lähevad inimesed ise katki. Arendus ei peaks aga olema selline, kus inimesed katki lähevad.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tuleb ümber teha</title>
+      <link>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/tuleb-umber-teha/</link>
+      <pubDate>Sun, 28 Aug 2016 21:34:41 +0300</pubDate>
+      
+      <guid>file:///C:/Users/Kasutaja/Desktop/Freshbrew/public/post/tuleb-umber-teha/</guid>
+      <description>
+
+&lt;h1 id=&#34;tuleb-ümber-teha&#34;&gt;Tuleb ümber teha&lt;/h1&gt;
+
+&lt;p&gt;Igasugune ümbertegemine on kulu.
+Riigis on ümbergemine maksumaksja raha viisakalt öeldes ebaotstarbekas kulutamine, otse öeldes raiskamine.
+Selle eest tuleks kedagi vangi panna, töölt lahti lasta.&lt;/p&gt;
+
+&lt;p&gt;Tänapäevases IT arenduses ei saa ümbertegemist vältida. Kvaliteetset tulemust ilma selleta ei saavuta.&lt;/p&gt;
+
+&lt;p&gt;Põhjuste avamine käib siin üle jõu. Info paljusus ja samal ajal ebaülevaatlikkus, muutlikkus jms teevad prognoosimise raskeks. Time to market, iterative development, devops on vaid mõned terminid, mis väljendavad - igaüks erineva nurga alt - IT maailmas pikema aja jooksul kujunenud arusaamist ümbertegemiste vältimatusest.&lt;/p&gt;
+
+&lt;p&gt;[Tegelikult peaks infotöötlejale olema teabe teisendamine ühest vormist teise olema igapäevane leib. Sisend -&amp;gt; Teisendus -&amp;gt; Väljund.]&lt;br /&gt;
+Tihtigi kohtame aga programmeerijat või analüütikut, kes ei taha oma tööd ümber teha. &amp;ldquo;Ma ju tegin tööd. Miks ma pean ümber tegema?&amp;rdquo; &amp;ldquo;Ma esitasin analüüsi wordis, see on mulle mugav vorming. Miks nõuate nüüd Markdowni panemist?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
