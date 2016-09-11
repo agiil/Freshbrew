@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freshbrew</title>
-    <link>http://agiil.github.io/Freshbrew/</link>
+    <link>https://agiil.github.io/Freshbrew/</link>
     <description>Recent content on Freshbrew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>et</language>
     <copyright>CC BY-NC-SA 2016</copyright>
     <lastBuildDate>Wed, 07 Sep 2016 21:35:08 +0300</lastBuildDate>
-    <atom:link href="http://agiil.github.io/Freshbrew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://agiil.github.io/Freshbrew/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A, B ja C</title>
-      <link>http://agiil.github.io/Freshbrew/post/a-b-ja-c/</link>
+      <link>https://agiil.github.io/Freshbrew/post/a-b-ja-c/</link>
       <pubDate>Wed, 07 Sep 2016 21:35:08 +0300</pubDate>
       
-      <guid>http://agiil.github.io/Freshbrew/post/a-b-ja-c/</guid>
+      <guid>https://agiil.github.io/Freshbrew/post/a-b-ja-c/</guid>
       <description>
 
 &lt;h1 id=&#34;a-b-ja-c&#34;&gt;A, B ja C&lt;/h1&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Inimeste katkiminekust</title>
-      <link>http://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</link>
+      <link>https://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</link>
       <pubDate>Tue, 30 Aug 2016 19:48:10 +0300</pubDate>
       
-      <guid>http://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</guid>
+      <guid>https://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</guid>
       <description>&lt;p&gt;Inimeste katkiminekust&lt;/p&gt;
 
 &lt;p&gt;Projektijuhil on kaht liiki alluvaid: a) oma asutuse töötajad; b) arenduspartneri töötajad. Kuidas ta saab neid motiveerida?&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Tuleb ümber teha</title>
-      <link>http://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</link>
+      <link>https://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</link>
       <pubDate>Sun, 28 Aug 2016 21:34:41 +0300</pubDate>
       
-      <guid>http://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</guid>
+      <guid>https://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</guid>
       <description>
 
 &lt;h1 id=&#34;tuleb-ümber-teha&#34;&gt;Tuleb ümber teha&lt;/h1&gt;
