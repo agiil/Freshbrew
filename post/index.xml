@@ -32,7 +32,7 @@
 &lt;li&gt;&lt;strong&gt;agiilne arendus&lt;/strong&gt; - arendusviis, kus ülesande püstitamine ja arendustöö vahelduvad&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;3-ratsionaalse-ülesandepüstitamise-põhimõtted&#34;&gt;3. Ratsionaalse ülesandepüstitamise põhimõtted&lt;/h4&gt;
+&lt;h4 id=&#34;ratsionaalse-ülesandepüstitamise-põhimõtted&#34;&gt;Ratsionaalse ülesandepüstitamise põhimõtted&lt;/h4&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Suuremaid töid ei võeta ette ilma selge ülesandepüstituseta.&lt;/li&gt;
@@ -49,7 +49,7 @@
 &lt;li&gt;Otsusi ei tehta kiirustades ja uisapäisa; enne otsuse tegemist küsitakse, kas otsuse tegemiseks vajalikud andmed on koos ja kas otsuse tegemiseks õige aeg on käes.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h4 id=&#34;3-nõuete-liike&#34;&gt;3. Nõuete liike&lt;/h4&gt;
+&lt;h4 id=&#34;nõuete-liigid&#34;&gt;Nõuete liigid&lt;/h4&gt;
 
 &lt;p&gt;Nõuete väljaselgitamisel peab nõudeid kriitiliselt hindama. Väheolulised, asjasse mittepuutuvad, &lt;em&gt;pro forma&lt;/em&gt; ja selge omanikuta nõuded ei kuulu ülesandepüstitusse. Alljärgnev nõuete liigitus võib olla kasuks nõuete kriitilisel uurimisel.&lt;/p&gt;
 
@@ -108,18 +108,18 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h4 id=&#34;4-probleemid&#34;&gt;4. Probleemid&lt;/h4&gt;
+&lt;h4 id=&#34;probleemid&#34;&gt;Probleemid&lt;/h4&gt;
 
-&lt;p&gt;Ratsionaalsem tegutsemine ülesannete püstitamisel võib aidata vältida mõningaid sageliesinevaid IT-probleeme. Eriti võiksid ülaltoodud põhimõtted olla abiks:&lt;/p&gt;
+&lt;p&gt;Rohkem ratsionaalsust ülesannete püstitamisel aitaks vältida nii mõndagi sageliesinevat IT-probleemi. Ülaltoodud põhimõtteid võib edukalt kasutada:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;käsitlusala laialivalgumise vältimisel projektides (ingl &lt;em&gt;scope creep&lt;/em&gt;). Vrdl &lt;a href=&#34;https://en.wikipedia.org/wiki/Scope_creep&#34;&gt;https://en.wikipedia.org/wiki/Scope_creep&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;triivimise ja ringiekslemise vältimisel (projektitriiv, ingl &lt;em&gt;project drift&lt;/em&gt;).&lt;/li&gt;
-&lt;li&gt;funktsioonikuhje vältimisel toodetes ja süsteemides (ingl &lt;em&gt;function creep&lt;/em&gt;, &lt;em&gt;feature creep&lt;/em&gt;).&lt;/li&gt;
-&lt;li&gt;kellade-vilede tellimise vältimisel.&lt;/li&gt;
-&lt;li&gt;arendusprojektide ettepanekute hindamise ja valiku erinevates etappides läbipaistvuse, kommunikatsiooni ja otsuste kvaliteedi tõstmisel.&lt;/li&gt;
-&lt;li&gt;“ägedate lahenduste” tellimisega hooguminemise vältimisel.&lt;/li&gt;
-&lt;li&gt;küsimuse &amp;ldquo;miks me seda üldse teeme (tegime)?&amp;rdquo; tööde käigus või töö lõpus tekkimise vältimisel.&lt;/li&gt;
+&lt;li&gt;käsitlusala laialivalgumise vältimiseks projektides (ingl &lt;em&gt;scope creep&lt;/em&gt;). Vrdl &lt;a href=&#34;https://en.wikipedia.org/wiki/Scope_creep&#34;&gt;https://en.wikipedia.org/wiki/Scope_creep&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;triivimise ja ringiekslemise vältimiseks (projektitriiv, ingl &lt;em&gt;project drift&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;funktsioonikuhje vältimiseks toodetes ja süsteemides (ingl &lt;em&gt;function creep&lt;/em&gt;, &lt;em&gt;feature creep&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;kellade-vilede tellimise vältimiseks.&lt;/li&gt;
+&lt;li&gt;arendusprojektide ettepanekute hindamise ja valiku erinevates etappides läbipaistvuse, kommunikatsiooni ja otsuste kvaliteedi tõstmiseks.&lt;/li&gt;
+&lt;li&gt;“ägedate lahenduste” tellimisega hooguminemise vältimiseks.&lt;/li&gt;
+&lt;li&gt;küsimuse &amp;ldquo;miks me seda üldse teeme (tegime)?&amp;rdquo; tööde käigus või töö lõpus tekkimise vältimiseks.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
