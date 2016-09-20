@@ -7,8 +7,122 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>et</language>
     <copyright>CC BY-NC-SA 2016</copyright>
-    <lastBuildDate>Mon, 12 Sep 2016 21:35:08 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2016 21:35:08 +0300</lastBuildDate>
     <atom:link href="https://agiil.github.io/Freshbrew/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rohkem ratsionaalsust</title>
+      <link>https://agiil.github.io/Freshbrew/post/rohkem-ratsionaalsust/</link>
+      <pubDate>Tue, 20 Sep 2016 21:35:08 +0300</pubDate>
+      
+      <guid>https://agiil.github.io/Freshbrew/post/rohkem-ratsionaalsust/</guid>
+      <description>
+
+&lt;h4 id=&#34;mõisted&#34;&gt;Mõisted&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;lahendus&lt;/strong&gt; - tarkvara, IT süsteem või teenus, samuti IT-ga seotud artefakt või artefaktide kogum, millel on mingi kasutusväärtus ja mille loomiseks on vaja IT arendustööd (edaspidi - &amp;ldquo;tööd&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ülesandepüstitus&lt;/strong&gt; - määratleb probleemi(d) või vajaduse(d), mida lahendus peab lahendama, loodava lahenduse eesmärgi(d), kõige olulisemad teadaolevad jooned ja piirangud (nõuded) ning annab suunised lahenduse loomisele (teostamisele)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;spetsifikatsioon&lt;/strong&gt; - üheselt tõlgendatav, detailne ja kõikehõlmav ülesandepüstitus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;arendustöö&lt;/strong&gt; - ülesandepüstitusest lähtuv, lahenduse loomisele suunatud tegevus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;loominguline arendustöö&lt;/strong&gt; - töö, mis nõuab mittetriviaalsete probleemide lahendamist, eksperthinnangute andmist, loomingulist mõtlemist jms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;spetsifitseeritud arendustöö&lt;/strong&gt; - spetsifikatsiooni järgi tehtav arendustöö.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ressurss&lt;/strong&gt; - inimtöö, nii majasisese kui ka väljast hangitava, kulutus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;kosemudel&lt;/strong&gt; - arendusviis, kus ülesandepüstitus töö käigus ei muutu&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;agiilne arendus&lt;/strong&gt; - arendusviis, kus ülesande püstitamine ja arendustöö vahelduvad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;3-ratsionaalse-ülesandepüstitamise-põhimõtted&#34;&gt;3. Ratsionaalse ülesandepüstitamise põhimõtted&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Suuremaid töid ei võeta ette ilma selge ülesandepüstituseta.&lt;/li&gt;
+&lt;li&gt;Ülesandepüstituse koostamine on omaette töö. Selles võib eristada nõuete (eesmärgide ja piirangute) väljaselgitamist,  sõnastamist, kokkukogumist, prioritiseerimist, vastuolude väljaselgitamist, kompromisside otsimist jms.&lt;/li&gt;
+&lt;li&gt;Ülesandepüstitamisel üritatakse varakult kaasata kõik osapooled, kes oluliste nõuete (eesmärkide ja piirangute) püstitamisel võiksid kaasa rääkida.&lt;/li&gt;
+&lt;li&gt;Ülesandepüstitamisel püütakse vältida &lt;em&gt;design by committee&lt;/em&gt; jms ebasoovitavaid grupidünaamilisi nähtusi.&lt;/li&gt;
+&lt;li&gt;Ülesandeid ei püstitata lahus realistlikust vaatest kasutatavatele ressurssidele.&lt;/li&gt;
+&lt;li&gt;Ülesannete püstitamisel pürgitakse tasakaalustatusele (ka selles lõikes, et projektiportfellis on nii kõrgema kui ka madalama riskitasemega projekte).&lt;/li&gt;
+&lt;li&gt;Ülesannete püstitamisel võetakse arvesse arendusega paratamatult kaasas käivat määramatust.&lt;/li&gt;
+&lt;li&gt;Määramatuse riski vähendamiseks kasutatakse - vastavalt olukorrale ja võimalustele - nii &lt;em&gt;up-front&lt;/em&gt; ettevalmistavaid tegevusi (kosemudelis) kui ka agiilseid praktikaid.&lt;/li&gt;
+&lt;li&gt;Ülesandepüstitamisel arvestatakse nii täitjariski kui ka ülesande laadi. Madala täitjariskiga, loominguliste ülesannete püstitused tehakse minimaalsed; kõrge täitjariskiga, madala loomingulisusega ülesanded seevastu spetsifitseeritakse detailselt.&lt;/li&gt;
+&lt;li&gt;Tehakse vahet eesmärgi ja vahendi vahel.&lt;/li&gt;
+&lt;li&gt;Ressursikohustumisi (ingl &lt;em&gt;resource commitment&lt;/em&gt;) võetakse konservatiivselt. Vajadusel tehakse eelanalüüse või võetakse muid valikuvõimalusi jätvaid, tootjalukke jm sundseise vältivaid meetmeid.&lt;/li&gt;
+&lt;li&gt;Otsusi ei tehta kiirustades ja uisapäisa; enne otsuse tegemist küsitakse, kas otsuse tegemiseks vajalikud andmed on koos ja kas otsuse tegemiseks õige aeg on käes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;3-nõuete-liike&#34;&gt;3. Nõuete liike&lt;/h4&gt;
+
+&lt;p&gt;Nõuete väljaselgitamisel peab nõudeid kriitiliselt hindama. Väheolulised, asjasse mittepuutuvad, pro forma ja selge omanikuta nõuded ei kuulu ülesandepüstitusse. Alljärgnev nõuete liigitus võib olla kasuks nõuete kriitilisel uurimisel.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Eesmärke püstitavad nõuded (&amp;ldquo;eesmärknõuded&amp;rdquo;).
+
+&lt;ul&gt;
+&lt;li&gt;Eesmärknõudeid ei tohi olla liiga palju. Lahendust, mis peab täitma paljusid erinevaid eesmärke, on raske projekteerida ja teostada. Eesmärknõuete paljusus viitab vajadusele ülesandepüstitus dekomponeerida alam- või hoopis eraldiseisvateks ülesanneteks.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Piiranguid seadvad nõuded (&amp;ldquo;piirangnõuded&amp;rdquo;).
+
+&lt;ul&gt;
+&lt;li&gt;Ükski lahendus ei teki täiesti tühjale kohale. Piirangud tulenevad tulevase lahenduse keskkonna tehnostruktuurist, organisatsioonilisest kontekstist jms.&lt;/li&gt;
+&lt;li&gt;Suuri süsteeme ehitatakse järk-järgult. Seetõttu seavad tihti piiranguid varem tehtud tehnoloogilised valikud.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Tuletatud nõuded&amp;rdquo;
+
+&lt;ul&gt;
+&lt;li&gt;Nõuded, mis on loogiliselt tuletatavad teistest nõuetest ja kontekstist. Nõuded, milleni mõistliku hoolsusega tegelev, vähemalt keskmiselt pädev projekteerija jõuaks ka iseseisvalt, lähtudes eesmärknõuetest.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Hariduse ja kompetentsi puudujääkide likvideerimisele suunatud nõuded
+
+&lt;ul&gt;
+&lt;li&gt;Nt &amp;ldquo;Pikema dokumendi (3 lk või rohkem) koosseisus peab olema sisukord&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fallacy&lt;/em&gt;, et tööd saab kvaliteetselt teha ka madala haridustasemega, nõrkade intellektuaalsete ja tahteliste omadustega täitjatega, kui vaid kehtestada üksikasjalikud nõuded.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tehtud valikutest teada andvad nõuded
+
+&lt;ul&gt;
+&lt;li&gt;Nt &amp;ldquo;Liides tuleb teostada SOAP stiilis&amp;rdquo;. Liidest võib teostada kas REST või SOAP stiilis. Oletame, et vahet pole. Kuid otsus on tehtud. Valikud võivad olla kaalutlustest tulenevad või kokkuleppelised, konventsionaalsed (ingl &lt;em&gt;by convention&lt;/em&gt;). Näiteks parem- või vasakpoolse liikluse valik on kokkuleppe küsimus.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tellija kaitsele suunatud nõuded
+
+&lt;ul&gt;
+&lt;li&gt;Nõuded, mis sõnastatakse eelkõige selleks, et kaitsta end võimalikes vaidlustes ja paremini motiveerida lepingute täitjaid.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pro forma nõuded
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Ülevaltpoolt&amp;rdquo; etteantud nõuded, mille mõistlikkus või eesmärk pole selge, kuid mida tuleb täita.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Omanikuta nõuded
+
+&lt;ul&gt;
+&lt;li&gt;Nõuded, mille allikas on kadunud. Loomulikult tuleb sellised nõuded kriitiliselt üle vaadata ja vajadusel eemaldada.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Nn &amp;ldquo;jalgrattakuurinõuded&amp;rdquo;
+
+&lt;ul&gt;
+&lt;li&gt;Nõuded, mis tegelikult ei ole väga olulised, kuid mida inimesed esitavad oma kompetentsuse väljanäitamiseks. Vt &lt;a href=&#34;https://en.wikipedia.org/wiki/Law_of_triviality&#34;&gt;https://en.wikipedia.org/wiki/Law_of_triviality&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Enneaegsed nõuded
+
+&lt;ul&gt;
+&lt;li&gt;Nõuded, mis tegelikult peaksid olema lahenduse osad ja tekkimise õige aeg oleks alles lahenduse väljatöötamise käigus.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;4-probleemid&#34;&gt;4. Probleemid&lt;/h4&gt;
+
+&lt;p&gt;Sageli esinevad IT-probleemid, mida ratsionaalsem ülesandepüstitamine võib aidata vältida:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;käsitlusala laialivalgumise vältimiseks projektides (ingl &lt;em&gt;scope creep&lt;/em&gt;). Vrdl &lt;a href=&#34;https://en.wikipedia.org/wiki/Scope_creep&#34;&gt;https://en.wikipedia.org/wiki/Scope_creep&lt;/a&gt;.
+triivimise ja ringiekslemise vältimiseks (projektitriiv, ingl &lt;em&gt;project drift&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;funktsioonikuhje vältimiseks toodetes ja süsteemides (ingl &lt;em&gt;function creep&lt;/em&gt;, &lt;em&gt;feature creep&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;kellade-vilede tellimise vältimiseks.&lt;/li&gt;
+&lt;li&gt;otsustusprotsessi ratsionaalsemaks tegemiseks arendusprojektide ja lahenduste hindamise ja valiku erinevates etappides.&lt;/li&gt;
+&lt;li&gt;“ägedate lahenduste” tellimisega hooguminemise vältimiseks.&lt;/li&gt;
+&lt;li&gt;küsimuste &amp;ldquo;miks me seda üldse teeme?&amp;rdquo; tööde käigus või lõppedes tekkimise vältimiseks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Ajakohasena hoidmine</title>
