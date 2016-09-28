@@ -786,9 +786,16 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 38px;
+    height: 170px;
     padding: 1px 0 5px 0;
     width: auto;
+}
+
+.coffeeSmall {
+    font-family: "Segoe UI Symbol", sans-serif;
+    font-size: 70px;
+    color: #5C3317;
+    margin-right: 0.2em; 
 }
 
 .menu-button {
@@ -1116,7 +1123,7 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 6rem 0 0 0;
     padding: 6rem 0 0 0;
-    border-top: #EBF2F6 1px solid;
+    text-align: center;
 }
 
 .post-footer h4 {
@@ -1772,7 +1779,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer {
-        padding: 5rem 0 3rem 0;
+        padding: 1rem 0 3rem 0;
         text-align: center;
     }
 
