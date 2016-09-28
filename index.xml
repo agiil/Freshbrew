@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freshbrew</title>
-    <link>https://agiil.github.io/Freshbrew/</link>
+    <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/</link>
     <description>Recent content on Freshbrew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>et</language>
     <copyright>CC BY-NC-SA 2016</copyright>
     <lastBuildDate>Tue, 27 Sep 2016 00:34:41 +0300</lastBuildDate>
-    <atom:link href="https://agiil.github.io/Freshbrew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Old Empty</title>
-      <link>https://agiil.github.io/Freshbrew/post/the-old-empty/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/the-old-empty/</link>
       <pubDate>Tue, 27 Sep 2016 00:34:41 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/the-old-empty/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/the-old-empty/</guid>
       <description>&lt;p&gt;The Old Empty! The man is quite a character. He introduces bugs into software. He stirs up egos, often resulting in complete breakdown in organisation&amp;rsquo;s communications. He is largely responsible for loss of direction in systems development projects. He is a spy. He is trickster. He&amp;rsquo;s a whistleblower. But don&amp;rsquo;t listen to his whistle - it&amp;rsquo;s a false one. When he enters the room, silently, nobody pays attention to him. Vaguely smiling, he stands in the corner. Never speaking, he lets others argue and discuss. He attents all our meetings. He proofreads our reports. He&amp;rsquo;s present in private conversations. He&amp;rsquo;s a key member of senior management board. He volunteers for corporate retreats. And when the meeting ends, people leaving the room, he&amp;rsquo;s still smiling, now grinning. Time has been wasted, money has been wasted, brains have been wasted. And people feel exhausted - wasted. Oftentimes, he&amp;rsquo;s the smartest guy in the room.&lt;/p&gt;
 
 &lt;p&gt;Whatever, but you cannot complain that this man lacks vision. He&amp;rsquo;s got lots of it. Always very open-minded and responsive to everything new, he&amp;rsquo;s a vocal supporter of the latest IT trends.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Rohkem ratsionaalsust</title>
-      <link>https://agiil.github.io/Freshbrew/post/rohkem-ratsionaalsust/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/rohkem-ratsionaalsust/</link>
       <pubDate>Tue, 20 Sep 2016 21:35:08 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/rohkem-ratsionaalsust/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/rohkem-ratsionaalsust/</guid>
       <description>
 
 &lt;h4 id=&#34;mõisted&#34;&gt;Mõisted&lt;/h4&gt;
@@ -140,10 +140,10 @@
     
     <item>
       <title>Ajakohasena hoidmine</title>
-      <link>https://agiil.github.io/Freshbrew/post/ajakohasena-hoidmine/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/ajakohasena-hoidmine/</link>
       <pubDate>Mon, 12 Sep 2016 21:35:08 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/ajakohasena-hoidmine/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/ajakohasena-hoidmine/</guid>
       <description>&lt;p&gt;Mõtleme - õigemini ei mõtle, vaid usume - et arendajalt vastu võetud, akteeritud ja tööle rakendatud tarkvara on täielikult dokumenteeritud ja dokumentatsioon on ajakohane. Kahjuks näitab praktika, et sellist eeldust ei saa teha.&lt;/p&gt;
 
 &lt;p&gt;Tõenäosus, et dokumentatsioon vastab tegelikule koodile, on üldiselt väike. Ajakohasus võib käest libiseda erinevatel põhjustel. Tööd oli vaja vastu võtta. Kõike ei jõutud dokumenteerida. Arvati, et dokumenteeritakse siis, kui suur kiire käikulaskmisega on möödas. Tarkvara töölepanemisel tehti veel vajalikke kohandusi. Nende korralikuks dokumenteerimiseks ei olnud käepärast ei inimesi ega aega. Jne. Põhjusi on palju.&lt;/p&gt;
@@ -177,10 +177,10 @@
     
     <item>
       <title>A, B ja C</title>
-      <link>https://agiil.github.io/Freshbrew/post/a-b-ja-c/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/a-b-ja-c/</link>
       <pubDate>Wed, 07 Sep 2016 21:35:08 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/a-b-ja-c/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/a-b-ja-c/</guid>
       <description>&lt;p&gt;Probleeme (töid) tuleb prioritiseerida: A, B ja C kategooria probleemid. A kategooria inimest ei tohi panna lahendama C kategooria probleemi. Tihti aga nii tehakse. Tulemuseks on ebaefektiivne ressursikasutus. See ei ole jätkusuutlik, ei nii ülesande andja kui ka inimese enda suhtes.&lt;/p&gt;
 
 &lt;p&gt;Hea mõte ei ole ka panna C kategooria inimene lahendama A kategooria probleemi. Tulemuseks on pusimine või ei saa inimene üldse aru, mis suunas minna.&lt;/p&gt;
@@ -193,10 +193,10 @@
     
     <item>
       <title>Inimeste katkiminekust</title>
-      <link>https://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/inimeste-katkiminekust/</link>
       <pubDate>Tue, 30 Aug 2016 19:48:10 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/inimeste-katkiminekust/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/inimeste-katkiminekust/</guid>
       <description>&lt;p&gt;Projektijuhil on kaht liiki alluvaid: a) oma asutuse töötajad; b) arenduspartneri töötajad. Kuidas ta saab neid motiveerida?&lt;/p&gt;
 
 &lt;p&gt;Motivatsioonitegurid on täiesti erinevad.&lt;/p&gt;
@@ -219,12 +219,12 @@
     
     <item>
       <title>Tuleb ümber teha</title>
-      <link>https://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</link>
+      <link>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/tuleb-umber-teha/</link>
       <pubDate>Sun, 28 Aug 2016 21:34:41 +0300</pubDate>
       
-      <guid>https://agiil.github.io/Freshbrew/post/tuleb-umber-teha/</guid>
+      <guid>file:///C:/Users/Kasutaja/Desktop/FreshbrewPREPARE/public/post/tuleb-umber-teha/</guid>
       <description>&lt;p&gt;Igasugune ümbertegemine on kulu.
-Riigis on ümbergemine maksumaksja raha viisakalt öeldes ebaotstarbekas kulutamine, otse öeldes raiskamine.
+Riigis on ümbertegemine maksumaksja raha viisakalt öeldes ebaotstarbekas kulutamine, otse öeldes raiskamine.
 Selle eest tuleks kedagi vangi panna, töölt lahti lasta.&lt;/p&gt;
 
 &lt;p&gt;Tänapäevases IT arenduses ei saa ümbertegemist vältida. Kvaliteetset tulemust ilma selleta ei saavuta.&lt;/p&gt;
